@@ -1,0 +1,22 @@
+{
+  "name": "master-the-javascript-interview",
+  "version": "1.0.0",
+  "description": "Examples from Master the JavaScript Interview Series by Eric Elliott",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linc96pm/master-the-javascript-interview.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Mukhammad Pardaboev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linc96pm/master-the-javascript-interview/issues"
+  },
+  "homepage": "https://github.com/linc96pm/master-the-javascript-interview#readme"
+}
